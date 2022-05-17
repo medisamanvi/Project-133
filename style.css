@@ -1,0 +1,52 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+.heading{
+    background-color: purple;
+    color:aqua ;
+    font-size: 40px;
+    font-weight: 400;
+    border-width: 10px;
+}
+
+#bedroom{
+    background-color: yellow;
+    color: rgb(176, 6, 117);
+    font-size:20px ;
+    font-weight: bold;
+    width: 30%;
+}
+
+#livingRoom{
+    background-color: yellow;
+    color: rgb(176, 6, 117);
+    font-size:20px ;
+    font-weight: bold;
+    width: 30%;
+}
+
+#television{
+    background-color: yellow;
+    color: rgb(176, 6, 117);
+    font-size:20px ;
+    font-weight: bold;
+    width: 30%;
+}
+
+#studyTable{
+    background-color: yellow;
+    color: rgb(176, 6, 117);
+    font-size:20px ;
+    font-weight: bold;
+    width: 30%;
+}
+
+#wardrobe{
+    background-color: yellow;
+    color: rgb(176, 6, 117);
+    font-size:20px ;
+    font-weight: bold;
+    width: 30%;
+}
